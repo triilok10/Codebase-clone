@@ -1,0 +1,320 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.sernav {
+    display: inline-flex;
+    background-color: white;
+    justify-content: space-around;
+    height: 15vh;
+    width: 100%;
+}
+
+.sernavbar1 {
+    margin-top: 40px;
+    margin-left: 5px;
+    height: 15px;
+
+}
+
+.sernavbar1 img {
+    height: 4vh;
+}
+
+.sernavbar2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 45px;
+}
+
+.sernavbar2 a {
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 55px;
+    font-weight: bolder;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#serhire {
+    background-color: blue;
+    color: white;
+    border-radius: 9px;
+    margin-left: 12px;
+}
+.serServices {
+    /* border: 2px solid black; */
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.serSocial {
+    /* border: 2px solid black; */
+    margin: 20px 130px;
+    display: flex;
+}
+#sersocial1 img {
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#seesaw1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sersocial1 {
+      width: 350px;
+      border: 2px solid gray;
+      margin: 10px 35px;
+      border-radius: 25px;
+      height: 35vh;
+}
+#socialtopic {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    margin-top: 20px;
+}
+#sersocial1 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#sersocial2 {
+    width: 350px;
+    border: 2px solid gray;
+    margin: 10px 35px;
+    border-radius: 25px;
+    height: 35vh;
+}
+#methodology img{
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#sersocial2 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#methodology {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sersocial3 {
+    width: 350px;
+    border: 2px solid gray;
+    margin: 10px 35px;
+    border-radius: 25px;
+    height: 35vh;
+}
+#mobile img{
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#sersocial3 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.serSocialBottom {
+    /* border: 2px solid black; */
+    margin: 20px 130px;
+    display: flex;
+    height: 50vh;
+}
+#sersocial4 {
+    width: 350px;
+    border: 2px solid gray;
+    margin: 10px 35px;
+    border-radius: 25px;
+    height: 35vh;
+}
+#world img{
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#sersocial4 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#world {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sersocial5 {
+    width: 350px;
+    border: 2px solid gray;
+    margin: 10px 35px;
+    border-radius: 25px;
+    height: 35vh;
+}
+#hand img{
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#sersocial5 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#hand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sersocial6 {
+    width: 350px;
+    border: 2px solid gray;
+    margin: 10px 35px;
+    border-radius: 25px;
+    height: 35vh;
+}
+#checkin img{
+    width: 60px;
+    height: 50px;
+    border: 2px solid rgb(171, 164, 164);
+    border-radius: 50px;
+    padding: 7px 3px;
+    margin-top: -35px;
+    background-color: white;
+}
+#sersocial6 p {
+    text-align: center;
+    width: 250px;
+    margin: 5px  50px;
+}
+#checkin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.servicefooter {
+    background-color: rgb(84, 84, 176);
+    width: 100%;
+}
+.servicefooter img {
+    margin: 0px 240px;
+}
+.footeridea {
+    height: 35vh;
+}
+.footeridea p {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.project {
+    /* border: 2px solid black; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    padding: 15px 2px;
+}
+.discuss {
+    margin-top: 40px;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+.discuss a {
+    /* border: 2px solid black; */
+    padding: 10px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+}
+.discuss a:hover {
+    color: blue;
+}
+.mainbottom {
+    border: 2px solid white;
+    height: 50vh;
+    background-color: rgb(53, 12, 215);
+}
+.mainbottom1 img {
+    height: 25px;
+    height:120px;
+}
+.mainbottom1 {
+    border-bottom: 2px solid white;
+    margin: 20px 180px;
+
+}
+.social {
+    display: flex;
+    margin: 0px 180px;
+}
+#social1 img{
+    padding: 0px 10px;
+    height: 35px;
+}
+#social2 img{
+    padding: 0px 10px;
+    height: 35px;
+}
+
+#social3 img{
+    padding: 0px 10px;
+    height: 35px;
+}
+
+#social4 img{
+    padding: 0px 10px;
+    height: 35px;
+}
+
+#social5 img{
+    padding: 0px 10px;
+    height: 35px;
+}
+.footlast {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footlast1 {
+    color: white;
+    margin-left: 180px;
+}
+.footlast2 {
+    margin-right: 160px;
+}
+.footlast2 a {
+    text-decoration: none;
+    color: white;
+    margin: 0px 25px;
+}
